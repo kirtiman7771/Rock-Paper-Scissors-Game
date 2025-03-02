@@ -19,7 +19,7 @@ A simple Rock Paper Scissors game built using HTML, CSS, and JavaScript. Play ag
 4. The score updates accordingly.  
 
 ## Live Demo  
-[Play the Game](#) (https://kirtiman7771.github.io/Rock-Paper-Scissors-Game/)
+Play the Game- (https://kirtiman7771.github.io/Rock-Paper-Scissors-Game/)
 
 ## Installation  
 1. Clone this repository:  
